@@ -1,5 +1,5 @@
 baseURL = 'https://valsinats42.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Stan's Corner"
 theme = "ananke"
 
